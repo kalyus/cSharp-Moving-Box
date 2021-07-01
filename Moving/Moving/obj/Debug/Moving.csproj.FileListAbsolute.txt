@@ -1,0 +1,10 @@
+C:\Users\Kaleb\source\repos\Moving\Moving\bin\Debug\Moving.exe.config
+C:\Users\Kaleb\source\repos\Moving\Moving\bin\Debug\Moving.exe
+C:\Users\Kaleb\source\repos\Moving\Moving\bin\Debug\Moving.pdb
+C:\Users\Kaleb\source\repos\Moving\Moving\obj\Debug\Moving.csproj.AssemblyReference.cache
+C:\Users\Kaleb\source\repos\Moving\Moving\obj\Debug\Moving.Form1.resources
+C:\Users\Kaleb\source\repos\Moving\Moving\obj\Debug\Moving.Properties.Resources.resources
+C:\Users\Kaleb\source\repos\Moving\Moving\obj\Debug\Moving.csproj.GenerateResource.cache
+C:\Users\Kaleb\source\repos\Moving\Moving\obj\Debug\Moving.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\source\repos\Moving\Moving\obj\Debug\Moving.exe
+C:\Users\Kaleb\source\repos\Moving\Moving\obj\Debug\Moving.pdb
