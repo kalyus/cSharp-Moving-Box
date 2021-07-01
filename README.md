@@ -3,3 +3,6 @@
 The Only file you need to edit is the Form1.cs
 
 This project includes a working Box that responds to WASD keys to move around
+
+The movement used `switch` and `case` instead of `If` statements.
+
